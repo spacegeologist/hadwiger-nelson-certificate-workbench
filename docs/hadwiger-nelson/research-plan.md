@@ -67,19 +67,30 @@ Implemented and verified:
 - DRAT-trim proof verification.
 - CNP-SAT `.vtx` coordinate parsing and unit-distance embedding checks.
 - Proof-core reductions of the CNP-SAT 517, 529, and 553 vertex graphs.
+- Exact (symbolic) unit-distance verification in `Q(sqrt 3, sqrt 5, sqrt 11)`
+  for all four CNP-SAT graphs (`hnp/exact_embedding.py`).
+- Incremental SAT criticality reducer with edge selectors + symmetry breaking
+  (`hnp/minimize.py`).
 - unit tests and CLI smoke checks.
 
-Current publishable-unit candidate:
+Current publishable-unit candidate (Phase 5, honest framing):
 
-- A reproducible certificate package for SBP-closed proof-core reductions:
-  - 517 vertices, 2576 edges, not 4-colorable by verified DRAT certificate.
-  - 529 vertices, 2662 edges, not 4-colorable by verified DRAT certificate.
-  - 553 vertices, 2715 edges, not 4-colorable by verified DRAT certificate.
-- Each graph keeps the SBP support triangle on vertices `1,2,6`.
-- Each graph inherits and locally verifies the original CNP-SAT unit-distance coordinates.
+- An open verification + deletion-minimization toolkit for the CNP-SAT family,
+  with two genuine contributions over the prior art:
+  - **Exact** (proof-grade, non-floating-point) unit-distance certificates for
+    the 510/517/529/553 graphs.
+  - A clean **deletion lower bound**: the 510 graph is vertex-critical, so no
+    sequence of edge/vertex deletions can drop below 510 vertices; Parts'
+    509-vertex record is therefore unreachable by deletion (proof in
+    `lab-notes/2026-06-18-phase-5.md`).
+- Best-effort edge-critical reductions of the 510 graph (510 vertices, fewer
+  edges), independently re-verified UNSAT and exactly unit-distance.
 
 Boundary:
 
 - This does not improve the known plane lower bound from 5 to 6.
-- It may be publishable only as a reproducible proof-minimization/certificate note
-  if novelty against existing 509-vertex and edge-minimized literature is confirmed.
+- This is not a record-size graph; 509 vertices is provably out of reach by
+  deletion. Beating the record needs a new vertex set (construction/search),
+  which deletion-based tooling cannot supply.
+- Honest positioning: a reproducibility + exact-verification computational note,
+  not a breakthrough.
