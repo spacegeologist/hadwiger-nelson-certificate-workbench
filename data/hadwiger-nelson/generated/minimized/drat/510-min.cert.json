@@ -1,0 +1,14 @@
+{
+  "graph": "510-min",
+  "vertices": 510,
+  "edges": 2287,
+  "colors": 4,
+  "cnf": "510-min.cnf",
+  "cnf_clauses": 12721,
+  "symmetry_pins": "vertex 1->0, 2->1, 6->2",
+  "proof_generator": "pysat Glucose4 (DRUP)",
+  "proof_lines": 302940,
+  "drat_trim": "VERIFIED",
+  "drat_trim_seconds": 21.7,
+  "note": "Proof file 510-min.drat (~39MB) is git-ignored; regenerate with scripts/certify_drat.py."
+}
