@@ -1,0 +1,31 @@
+{
+  "input": {
+    "edge_file": "data/hadwiger-nelson/external/marijnheule-CNP-SAT/edge/553.edge",
+    "vertices": 553,
+    "edges": 2722
+  },
+  "order": "lexicographic",
+  "edge_minimization": {
+    "removed_edges": 238,
+    "kept_edges": 2484,
+    "solve_calls": 2719,
+    "solve_seconds": 1617.63,
+    "budget_exceeded": 153,
+    "conflict_budget": 8000
+  },
+  "vertex_pruning": {
+    "removed_vertices": 0,
+    "removed_vertex_labels": []
+  },
+  "result": {
+    "vertices": 553,
+    "edges": 2484,
+    "independent_check": "UNSAT",
+    "independent_check_seconds": 260.644,
+    "geometry": {
+      "non_unit_edges": 0,
+      "method": "exact symbolic"
+    }
+  },
+  "wall_seconds": 1882.5
+}

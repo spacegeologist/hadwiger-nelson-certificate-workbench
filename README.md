@@ -188,3 +188,29 @@ Note: the 510 graph is *vertex-critical*, so deletion cannot reduce the vertex
 count below 510 and cannot reach Parts' 509-vertex record. See
 `docs/hadwiger-nelson/lab-notes/2026-06-18-phase-5.md` for the argument and the
 honest scope of these artifacts.
+
+## DRAT Certification of Reduced Graphs
+
+`scripts/certify_drat.py` produces and checks a DRAT non-4-colorability proof for
+a graph: it builds the symmetry-broken coloring CNF, emits a DRUP proof with
+pysat's Glucose4, and runs drat-trim on it. This is a second, independent
+verification method on top of the plain CaDiCaL UNSAT result.
+
+```bash
+python3 scripts/certify_drat.py \
+  --edge data/hadwiger-nelson/generated/minimized/510-min.edge \
+  --cnf  data/hadwiger-nelson/generated/minimized/drat/510-min.cnf \
+  --drat data/hadwiger-nelson/generated/minimized/drat/510-min.drat
+```
+
+Expected: `drat-trim: VERIFIED`. All four reduced graphs
+(`510/517/529/553-min`) are triple-verified — independent CaDiCaL UNSAT, DRAT
+proof, and exact-distance geometry; see
+`data/hadwiger-nelson/generated/minimized/README.md`.
+
+To check the vertex-criticality that pins these vertex counts:
+
+```bash
+python3 scripts/check_vertex_critical.py \
+  --edge data/hadwiger-nelson/external/marijnheule-CNP-SAT/edge/510.edge
+```

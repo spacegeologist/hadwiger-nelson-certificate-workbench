@@ -1,0 +1,13 @@
+{
+  "graph": "517-min",
+  "vertices": 517,
+  "edges": 2335,
+  "colors": 4,
+  "cnf": "517-min.cnf",
+  "cnf_clauses": 12962,
+  "symmetry_pins": "vertex 1->0, 2->1, 6->2",
+  "proof_generator": "pysat Glucose4 (DRUP)",
+  "proof_lines": 230496,
+  "drat_trim": "VERIFIED",
+  "note": "Proof file is git-ignored (~MBs); regenerate with scripts/certify_drat.py."
+}
