@@ -1,0 +1,98 @@
+[
+  {
+    "name": "517-4-sbp.drat",
+    "path": "proof/517-4-sbp.drat",
+    "sha": "50ebfd2af9b6e3e440b21061034b23f851f00926",
+    "size": 2383731,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/proof/517-4-sbp.drat?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/proof/517-4-sbp.drat",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/50ebfd2af9b6e3e440b21061034b23f851f00926",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/proof/517-4-sbp.drat",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/proof/517-4-sbp.drat?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/50ebfd2af9b6e3e440b21061034b23f851f00926",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/proof/517-4-sbp.drat"
+    }
+  },
+  {
+    "name": "529-4-sbp.drat",
+    "path": "proof/529-4-sbp.drat",
+    "sha": "0d0565509a0c36719f06b34292c508b50bdcdf93",
+    "size": 2704564,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/proof/529-4-sbp.drat?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/proof/529-4-sbp.drat",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/0d0565509a0c36719f06b34292c508b50bdcdf93",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/proof/529-4-sbp.drat",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/proof/529-4-sbp.drat?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/0d0565509a0c36719f06b34292c508b50bdcdf93",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/proof/529-4-sbp.drat"
+    }
+  },
+  {
+    "name": "553-4-sbp.drat",
+    "path": "proof/553-4-sbp.drat",
+    "sha": "8434590e8e737de45b48b234bb9d78b2bb724ede",
+    "size": 4143373,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/proof/553-4-sbp.drat?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/proof/553-4-sbp.drat",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/8434590e8e737de45b48b234bb9d78b2bb724ede",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/proof/553-4-sbp.drat",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/proof/553-4-sbp.drat?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/8434590e8e737de45b48b234bb9d78b2bb724ede",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/proof/553-4-sbp.drat"
+    }
+  },
+  {
+    "name": "610-4-sbp.drat",
+    "path": "proof/610-4-sbp.drat",
+    "sha": "4c21a6d98ea74ff092e3e624a060798827e52f1c",
+    "size": 3209172,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/proof/610-4-sbp.drat?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/proof/610-4-sbp.drat",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/4c21a6d98ea74ff092e3e624a060798827e52f1c",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/proof/610-4-sbp.drat",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/proof/610-4-sbp.drat?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/4c21a6d98ea74ff092e3e624a060798827e52f1c",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/proof/610-4-sbp.drat"
+    }
+  },
+  {
+    "name": "633-4-sbp.drat",
+    "path": "proof/633-4-sbp.drat",
+    "sha": "fab2ede399870a3243e379f7b92aa5819f3dc85d",
+    "size": 4565335,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/proof/633-4-sbp.drat?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/proof/633-4-sbp.drat",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/fab2ede399870a3243e379f7b92aa5819f3dc85d",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/proof/633-4-sbp.drat",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/proof/633-4-sbp.drat?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/fab2ede399870a3243e379f7b92aa5819f3dc85d",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/proof/633-4-sbp.drat"
+    }
+  },
+  {
+    "name": "803-4-sbp.drat",
+    "path": "proof/803-4-sbp.drat",
+    "sha": "455c37f2030d401b474c81d1e3bc3ae26aefb947",
+    "size": 21904992,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/proof/803-4-sbp.drat?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/proof/803-4-sbp.drat",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/455c37f2030d401b474c81d1e3bc3ae26aefb947",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/proof/803-4-sbp.drat",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/proof/803-4-sbp.drat?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/455c37f2030d401b474c81d1e3bc3ae26aefb947",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/proof/803-4-sbp.drat"
+    }
+  }
+]

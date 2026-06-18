@@ -1,0 +1,194 @@
+[
+  {
+    "name": "510.edge",
+    "path": "edge/510.edge",
+    "sha": "f615440819dc266c0f928d5439602548a7f1fd2b",
+    "size": 23661,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/edge/510.edge?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/edge/510.edge",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/f615440819dc266c0f928d5439602548a7f1fd2b",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/edge/510.edge",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/edge/510.edge?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/f615440819dc266c0f928d5439602548a7f1fd2b",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/edge/510.edge"
+    }
+  },
+  {
+    "name": "517.edge",
+    "path": "edge/517.edge",
+    "sha": "05f8e6476a47ddffa14d9edf2edefa23f3c10ada",
+    "size": 24567,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/edge/517.edge?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/edge/517.edge",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/05f8e6476a47ddffa14d9edf2edefa23f3c10ada",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/edge/517.edge",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/edge/517.edge?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/05f8e6476a47ddffa14d9edf2edefa23f3c10ada",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/edge/517.edge"
+    }
+  },
+  {
+    "name": "529.edge",
+    "path": "edge/529.edge",
+    "sha": "9804e0be56b7eb46049bf88382ea3446f350497a",
+    "size": 25472,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/edge/529.edge?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/edge/529.edge",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/9804e0be56b7eb46049bf88382ea3446f350497a",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/edge/529.edge",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/edge/529.edge?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/9804e0be56b7eb46049bf88382ea3446f350497a",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/edge/529.edge"
+    }
+  },
+  {
+    "name": "553.edge",
+    "path": "edge/553.edge",
+    "sha": "615022a14eb7691020f331a6061028f6e3ff5dba",
+    "size": 25710,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/edge/553.edge?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/edge/553.edge",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/615022a14eb7691020f331a6061028f6e3ff5dba",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/edge/553.edge",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/edge/553.edge?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/615022a14eb7691020f331a6061028f6e3ff5dba",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/edge/553.edge"
+    }
+  },
+  {
+    "name": "610.edge",
+    "path": "edge/610.edge",
+    "sha": "988bfffca3434a028beceb145bd5fc25fbe194e9",
+    "size": 28431,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/edge/610.edge?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/edge/610.edge",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/988bfffca3434a028beceb145bd5fc25fbe194e9",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/edge/610.edge",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/edge/610.edge?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/988bfffca3434a028beceb145bd5fc25fbe194e9",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/edge/610.edge"
+    }
+  },
+  {
+    "name": "633.edge",
+    "path": "edge/633.edge",
+    "sha": "200a24426e472456d7523ef6929f0a1aa0cd070b",
+    "size": 30210,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/edge/633.edge?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/edge/633.edge",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/200a24426e472456d7523ef6929f0a1aa0cd070b",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/edge/633.edge",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/edge/633.edge?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/200a24426e472456d7523ef6929f0a1aa0cd070b",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/edge/633.edge"
+    }
+  },
+  {
+    "name": "803.edge",
+    "path": "edge/803.edge",
+    "sha": "2a3f76ced90f81f82f8f4faf24db86ad6bdb09e7",
+    "size": 40017,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/edge/803.edge?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/edge/803.edge",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/2a3f76ced90f81f82f8f4faf24db86ad6bdb09e7",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/edge/803.edge",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/edge/803.edge?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/2a3f76ced90f81f82f8f4faf24db86ad6bdb09e7",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/edge/803.edge"
+    }
+  },
+  {
+    "name": "826.edge",
+    "path": "edge/826.edge",
+    "sha": "f5cbea67be24906a6ba7ba32f89be2d1575056c9",
+    "size": 41294,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/edge/826.edge?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/edge/826.edge",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/f5cbea67be24906a6ba7ba32f89be2d1575056c9",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/edge/826.edge",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/edge/826.edge?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/f5cbea67be24906a6ba7ba32f89be2d1575056c9",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/edge/826.edge"
+    }
+  },
+  {
+    "name": "874.edge",
+    "path": "edge/874.edge",
+    "sha": "34dad47178bfde2230339c7f76aa92e2f82aa1a3",
+    "size": 43049,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/edge/874.edge?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/edge/874.edge",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/34dad47178bfde2230339c7f76aa92e2f82aa1a3",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/edge/874.edge",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/edge/874.edge?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/34dad47178bfde2230339c7f76aa92e2f82aa1a3",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/edge/874.edge"
+    }
+  },
+  {
+    "name": "L403.edge",
+    "path": "edge/L403.edge",
+    "sha": "b37a04dd8fb9de06d94fa769fa4ac1cc8392ced8",
+    "size": 19851,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/edge/L403.edge?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/edge/L403.edge",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/b37a04dd8fb9de06d94fa769fa4ac1cc8392ced8",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/edge/L403.edge",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/edge/L403.edge?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/b37a04dd8fb9de06d94fa769fa4ac1cc8392ced8",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/edge/L403.edge"
+    }
+  },
+  {
+    "name": "S199.edge",
+    "path": "edge/S199.edge",
+    "sha": "9751f1db3b37675a69d138251bf9d435107ca59e",
+    "size": 7839,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/edge/S199.edge?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/edge/S199.edge",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/9751f1db3b37675a69d138251bf9d435107ca59e",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/edge/S199.edge",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/edge/S199.edge?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/9751f1db3b37675a69d138251bf9d435107ca59e",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/edge/S199.edge"
+    }
+  },
+  {
+    "name": "T721.edge",
+    "path": "edge/T721.edge",
+    "sha": "c220817585039c618ce39b05987662192ee7c85b",
+    "size": 37784,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/edge/T721.edge?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/edge/T721.edge",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/c220817585039c618ce39b05987662192ee7c85b",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/edge/T721.edge",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/edge/T721.edge?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/c220817585039c618ce39b05987662192ee7c85b",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/edge/T721.edge"
+    }
+  }
+]

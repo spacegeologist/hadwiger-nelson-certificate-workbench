@@ -1,0 +1,98 @@
+[
+  {
+    "name": "check",
+    "path": "check",
+    "sha": "3d47458410596ddb4608d14bb5843a6e83348f27",
+    "size": 0,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/check?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/tree/master/check",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/trees/3d47458410596ddb4608d14bb5843a6e83348f27",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/check?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/trees/3d47458410596ddb4608d14bb5843a6e83348f27",
+      "html": "https://github.com/marijnheule/CNP-SAT/tree/master/check"
+    }
+  },
+  {
+    "name": "cnf",
+    "path": "cnf",
+    "sha": "cf4d483557c452965b49ef2b39b7130ee3cd2e49",
+    "size": 0,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/cnf?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/tree/master/cnf",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/trees/cf4d483557c452965b49ef2b39b7130ee3cd2e49",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/cnf?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/trees/cf4d483557c452965b49ef2b39b7130ee3cd2e49",
+      "html": "https://github.com/marijnheule/CNP-SAT/tree/master/cnf"
+    }
+  },
+  {
+    "name": "color.c",
+    "path": "color.c",
+    "sha": "7756fc14c1e51ae9e7c8412556da684e4101819d",
+    "size": 997,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/color.c?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/color.c",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/7756fc14c1e51ae9e7c8412556da684e4101819d",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/color.c",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/color.c?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/7756fc14c1e51ae9e7c8412556da684e4101819d",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/color.c"
+    }
+  },
+  {
+    "name": "edge",
+    "path": "edge",
+    "sha": "cb5a7d5301a475b48e348da9437f037059233723",
+    "size": 0,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/edge?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/tree/master/edge",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/trees/cb5a7d5301a475b48e348da9437f037059233723",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/edge?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/trees/cb5a7d5301a475b48e348da9437f037059233723",
+      "html": "https://github.com/marijnheule/CNP-SAT/tree/master/edge"
+    }
+  },
+  {
+    "name": "proof",
+    "path": "proof",
+    "sha": "f2c40f4e523fc47a8df4a9a2b700bed46c07d83a",
+    "size": 0,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/proof?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/tree/master/proof",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/trees/f2c40f4e523fc47a8df4a9a2b700bed46c07d83a",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/proof?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/trees/f2c40f4e523fc47a8df4a9a2b700bed46c07d83a",
+      "html": "https://github.com/marijnheule/CNP-SAT/tree/master/proof"
+    }
+  },
+  {
+    "name": "vtx",
+    "path": "vtx",
+    "sha": "88c473e27dacc85c5edb59ca1b54adaa07f423c7",
+    "size": 0,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/vtx?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/tree/master/vtx",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/trees/88c473e27dacc85c5edb59ca1b54adaa07f423c7",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/vtx?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/trees/88c473e27dacc85c5edb59ca1b54adaa07f423c7",
+      "html": "https://github.com/marijnheule/CNP-SAT/tree/master/vtx"
+    }
+  }
+]

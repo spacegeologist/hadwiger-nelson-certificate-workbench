@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+data/hadwiger-nelson/external/drat-trim/
+data/hadwiger-nelson/external/heule-1805.12181/source.tar
+data/hadwiger-nelson/external/vsvor-dist-graphs/

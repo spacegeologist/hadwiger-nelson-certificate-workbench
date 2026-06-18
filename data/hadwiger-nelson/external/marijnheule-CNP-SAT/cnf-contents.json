@@ -1,0 +1,274 @@
+[
+  {
+    "name": "517-4-sbp.cnf",
+    "path": "cnf/517-4-sbp.cnf",
+    "sha": "4c8d7bdebdc630e803d2eaeb0a9ee195bf514afa",
+    "size": 182753,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/cnf/517-4-sbp.cnf?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/cnf/517-4-sbp.cnf",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/4c8d7bdebdc630e803d2eaeb0a9ee195bf514afa",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/cnf/517-4-sbp.cnf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/cnf/517-4-sbp.cnf?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/4c8d7bdebdc630e803d2eaeb0a9ee195bf514afa",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/cnf/517-4-sbp.cnf"
+    }
+  },
+  {
+    "name": "517-4.cnf",
+    "path": "cnf/517-4.cnf",
+    "sha": "f6ad688be35794dd4716a80af7cd4b7a346bf9a9",
+    "size": 182774,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/cnf/517-4.cnf?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/cnf/517-4.cnf",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/f6ad688be35794dd4716a80af7cd4b7a346bf9a9",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/cnf/517-4.cnf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/cnf/517-4.cnf?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/f6ad688be35794dd4716a80af7cd4b7a346bf9a9",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/cnf/517-4.cnf"
+    }
+  },
+  {
+    "name": "517-4.edge",
+    "path": "cnf/517-4.edge",
+    "sha": "4c8d7bdebdc630e803d2eaeb0a9ee195bf514afa",
+    "size": 182753,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/cnf/517-4.edge?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/cnf/517-4.edge",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/4c8d7bdebdc630e803d2eaeb0a9ee195bf514afa",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/cnf/517-4.edge",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/cnf/517-4.edge?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/4c8d7bdebdc630e803d2eaeb0a9ee195bf514afa",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/cnf/517-4.edge"
+    }
+  },
+  {
+    "name": "529-4.cnf",
+    "path": "cnf/529-4.cnf",
+    "sha": "e7a2e159177a27efd7df040575a1b62a49ff0839",
+    "size": 146987,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/cnf/529-4.cnf?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/cnf/529-4.cnf",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/e7a2e159177a27efd7df040575a1b62a49ff0839",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/cnf/529-4.cnf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/cnf/529-4.cnf?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/e7a2e159177a27efd7df040575a1b62a49ff0839",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/cnf/529-4.cnf"
+    }
+  },
+  {
+    "name": "553-4-sbp.cnf",
+    "path": "cnf/553-4-sbp.cnf",
+    "sha": "eb5bad60b8777ba35d00a35c8a6b1146a48df6af",
+    "size": 149834,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/cnf/553-4-sbp.cnf?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/cnf/553-4-sbp.cnf",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/eb5bad60b8777ba35d00a35c8a6b1146a48df6af",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/cnf/553-4-sbp.cnf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/cnf/553-4-sbp.cnf?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/eb5bad60b8777ba35d00a35c8a6b1146a48df6af",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/cnf/553-4-sbp.cnf"
+    }
+  },
+  {
+    "name": "553-4.cnf",
+    "path": "cnf/553-4.cnf",
+    "sha": "e780ad5bc1a8f40825e4d2aebc52769730e14b0d",
+    "size": 149821,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/cnf/553-4.cnf?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/cnf/553-4.cnf",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/e780ad5bc1a8f40825e4d2aebc52769730e14b0d",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/cnf/553-4.cnf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/cnf/553-4.cnf?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/e780ad5bc1a8f40825e4d2aebc52769730e14b0d",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/cnf/553-4.cnf"
+    }
+  },
+  {
+    "name": "610-4-sbp.cnf",
+    "path": "cnf/610-4-sbp.cnf",
+    "sha": "ccc561eb48a3618dca2b9e0942412dc484aa6049",
+    "size": 166577,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/cnf/610-4-sbp.cnf?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/cnf/610-4-sbp.cnf",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/ccc561eb48a3618dca2b9e0942412dc484aa6049",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/cnf/610-4-sbp.cnf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/cnf/610-4-sbp.cnf?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/ccc561eb48a3618dca2b9e0942412dc484aa6049",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/cnf/610-4-sbp.cnf"
+    }
+  },
+  {
+    "name": "610-4.cnf",
+    "path": "cnf/610-4.cnf",
+    "sha": "c45e17438a4863766e42ebbc929e94eaea4a146f",
+    "size": 166564,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/cnf/610-4.cnf?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/cnf/610-4.cnf",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/c45e17438a4863766e42ebbc929e94eaea4a146f",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/cnf/610-4.cnf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/cnf/610-4.cnf?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/c45e17438a4863766e42ebbc929e94eaea4a146f",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/cnf/610-4.cnf"
+    }
+  },
+  {
+    "name": "633-4-sbp.cnf",
+    "path": "cnf/633-4-sbp.cnf",
+    "sha": "f6f12357b5e77a7b2d672197e72778c1e01abd66",
+    "size": 176326,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/cnf/633-4-sbp.cnf?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/cnf/633-4-sbp.cnf",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/f6f12357b5e77a7b2d672197e72778c1e01abd66",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/cnf/633-4-sbp.cnf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/cnf/633-4-sbp.cnf?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/f6f12357b5e77a7b2d672197e72778c1e01abd66",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/cnf/633-4-sbp.cnf"
+    }
+  },
+  {
+    "name": "633-4.cnf",
+    "path": "cnf/633-4.cnf",
+    "sha": "521efbd8fa2be796d4c562a1b2060258a4ac7201",
+    "size": 176313,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/cnf/633-4.cnf?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/cnf/633-4.cnf",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/521efbd8fa2be796d4c562a1b2060258a4ac7201",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/cnf/633-4.cnf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/cnf/633-4.cnf?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/521efbd8fa2be796d4c562a1b2060258a4ac7201",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/cnf/633-4.cnf"
+    }
+  },
+  {
+    "name": "803-4-sbp.cnf",
+    "path": "cnf/803-4-sbp.cnf",
+    "sha": "398ca3d5e4d629a51385d3de367c95239728cdc9",
+    "size": 235797,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/cnf/803-4-sbp.cnf?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/cnf/803-4-sbp.cnf",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/398ca3d5e4d629a51385d3de367c95239728cdc9",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/cnf/803-4-sbp.cnf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/cnf/803-4-sbp.cnf?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/398ca3d5e4d629a51385d3de367c95239728cdc9",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/cnf/803-4-sbp.cnf"
+    }
+  },
+  {
+    "name": "803-4.cnf",
+    "path": "cnf/803-4.cnf",
+    "sha": "8e570c355e108827bd03d7144c68f635681cbfe4",
+    "size": 235784,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/cnf/803-4.cnf?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/cnf/803-4.cnf",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/8e570c355e108827bd03d7144c68f635681cbfe4",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/cnf/803-4.cnf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/cnf/803-4.cnf?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/8e570c355e108827bd03d7144c68f635681cbfe4",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/cnf/803-4.cnf"
+    }
+  },
+  {
+    "name": "826-4-sbp.cnf",
+    "path": "cnf/826-4-sbp.cnf",
+    "sha": "4fa30ba1e8594bd5eb81b2a4551652c09ea20356",
+    "size": 243011,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/cnf/826-4-sbp.cnf?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/cnf/826-4-sbp.cnf",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/4fa30ba1e8594bd5eb81b2a4551652c09ea20356",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/cnf/826-4-sbp.cnf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/cnf/826-4-sbp.cnf?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/4fa30ba1e8594bd5eb81b2a4551652c09ea20356",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/cnf/826-4-sbp.cnf"
+    }
+  },
+  {
+    "name": "826-4.cnf",
+    "path": "cnf/826-4.cnf",
+    "sha": "19adfe9aac658cdf0985a41d1fc034a995e32d68",
+    "size": 242998,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/cnf/826-4.cnf?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/cnf/826-4.cnf",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/19adfe9aac658cdf0985a41d1fc034a995e32d68",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/cnf/826-4.cnf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/cnf/826-4.cnf?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/19adfe9aac658cdf0985a41d1fc034a995e32d68",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/cnf/826-4.cnf"
+    }
+  },
+  {
+    "name": "874-4-sbp.cnf",
+    "path": "cnf/874-4-sbp.cnf",
+    "sha": "269ae1b715bb2f1d94fe7e7410521ccbce285e58",
+    "size": 254408,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/cnf/874-4-sbp.cnf?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/cnf/874-4-sbp.cnf",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/269ae1b715bb2f1d94fe7e7410521ccbce285e58",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/cnf/874-4-sbp.cnf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/cnf/874-4-sbp.cnf?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/269ae1b715bb2f1d94fe7e7410521ccbce285e58",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/cnf/874-4-sbp.cnf"
+    }
+  },
+  {
+    "name": "874-4.cnf",
+    "path": "cnf/874-4.cnf",
+    "sha": "433e9040c7a6b7056f77701937b6734169cee8ac",
+    "size": 254395,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/cnf/874-4.cnf?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/cnf/874-4.cnf",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/433e9040c7a6b7056f77701937b6734169cee8ac",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/cnf/874-4.cnf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/cnf/874-4.cnf?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/433e9040c7a6b7056f77701937b6734169cee8ac",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/cnf/874-4.cnf"
+    }
+  },
+  {
+    "name": "G2347.cnf",
+    "path": "cnf/G2347.cnf",
+    "sha": "402f5b47787252be5455c574a76c126b84035ab4",
+    "size": 1195532,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/cnf/G2347.cnf?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/cnf/G2347.cnf",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/402f5b47787252be5455c574a76c126b84035ab4",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/cnf/G2347.cnf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/cnf/G2347.cnf?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/402f5b47787252be5455c574a76c126b84035ab4",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/cnf/G2347.cnf"
+    }
+  }
+]

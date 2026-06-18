@@ -1,0 +1,130 @@
+[
+  {
+    "name": "553.singular",
+    "path": "check/553.singular",
+    "sha": "e45e74d87574e43117fbfc3842f791a5f2891c11",
+    "size": 245274,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/check/553.singular?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/check/553.singular",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/e45e74d87574e43117fbfc3842f791a5f2891c11",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/check/553.singular",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/check/553.singular?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/e45e74d87574e43117fbfc3842f791a5f2891c11",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/check/553.singular"
+    }
+  },
+  {
+    "name": "610.singular",
+    "path": "check/610.singular",
+    "sha": "5f051d6bbc179134b72aa966ca8934ae77b0a6a9",
+    "size": 272827,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/check/610.singular?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/check/610.singular",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/5f051d6bbc179134b72aa966ca8934ae77b0a6a9",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/check/610.singular",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/check/610.singular?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/5f051d6bbc179134b72aa966ca8934ae77b0a6a9",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/check/610.singular"
+    }
+  },
+  {
+    "name": "633.singular",
+    "path": "check/633.singular",
+    "sha": "c12ed7ed66aac9217b17ab34ad72d39a448de0f2",
+    "size": 285824,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/check/633.singular?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/check/633.singular",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/c12ed7ed66aac9217b17ab34ad72d39a448de0f2",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/check/633.singular",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/check/633.singular?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/c12ed7ed66aac9217b17ab34ad72d39a448de0f2",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/check/633.singular"
+    }
+  },
+  {
+    "name": "803.singular",
+    "path": "check/803.singular",
+    "sha": "3b7eec0ea2121601bbc267c98673fa121917f2c1",
+    "size": 380974,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/check/803.singular?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/check/803.singular",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/3b7eec0ea2121601bbc267c98673fa121917f2c1",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/check/803.singular",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/check/803.singular?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/3b7eec0ea2121601bbc267c98673fa121917f2c1",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/check/803.singular"
+    }
+  },
+  {
+    "name": "826.singular",
+    "path": "check/826.singular",
+    "sha": "f2f110cb463aae19e5c760a1c39129b7b1d3801f",
+    "size": 391955,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/check/826.singular?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/check/826.singular",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/f2f110cb463aae19e5c760a1c39129b7b1d3801f",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/check/826.singular",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/check/826.singular?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/f2f110cb463aae19e5c760a1c39129b7b1d3801f",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/check/826.singular"
+    }
+  },
+  {
+    "name": "874.singular",
+    "path": "check/874.singular",
+    "sha": "0797d3dc4f56bbf848a30a6b13a14064c80bb52e",
+    "size": 410420,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/check/874.singular?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/check/874.singular",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/0797d3dc4f56bbf848a30a6b13a14064c80bb52e",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/check/874.singular",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/check/874.singular?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/0797d3dc4f56bbf848a30a6b13a14064c80bb52e",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/check/874.singular"
+    }
+  },
+  {
+    "name": "check_dist_one.py",
+    "path": "check/check_dist_one.py",
+    "sha": "3fba784e72a72fc525bca9ccc9e7939e210f6da4",
+    "size": 3330,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/check/check_dist_one.py?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/check/check_dist_one.py",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/3fba784e72a72fc525bca9ccc9e7939e210f6da4",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/check/check_dist_one.py",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/check/check_dist_one.py?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/3fba784e72a72fc525bca9ccc9e7939e210f6da4",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/check/check_dist_one.py"
+    }
+  },
+  {
+    "name": "run.sh",
+    "path": "check/run.sh",
+    "sha": "e54e4e2003978042dc2b38b48d9a3a56e69677a8",
+    "size": 917,
+    "url": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/check/run.sh?ref=master",
+    "html_url": "https://github.com/marijnheule/CNP-SAT/blob/master/check/run.sh",
+    "git_url": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/e54e4e2003978042dc2b38b48d9a3a56e69677a8",
+    "download_url": "https://raw.githubusercontent.com/marijnheule/CNP-SAT/master/check/run.sh",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/marijnheule/CNP-SAT/contents/check/run.sh?ref=master",
+      "git": "https://api.github.com/repos/marijnheule/CNP-SAT/git/blobs/e54e4e2003978042dc2b38b48d9a3a56e69677a8",
+      "html": "https://github.com/marijnheule/CNP-SAT/blob/master/check/run.sh"
+    }
+  }
+]
