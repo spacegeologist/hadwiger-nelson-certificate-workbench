@@ -27,10 +27,9 @@ if str(PROJECT_ROOT) not in sys.path:
     sys.path.insert(0, str(PROJECT_ROOT))
 
 from hnp.dimacs import coloring_cnf, graph_from_dimacs_edge_text
-from hnp.embedding import unit_edge_errors
+from hnp.exact_embedding import exact_non_unit_edges, parse_vtx_exact
 from hnp.graph import Graph
 from hnp.minimize import edge_minimize, prune_low_degree_vertices
-from hnp.vtx import parse_vtx_text
 from pysat.solvers import Cadical153
 
 
@@ -72,7 +71,7 @@ def main() -> int:
     args = parser.parse_args()
 
     graph = graph_from_dimacs_edge_text(args.edge.read_text(encoding="utf-8"))
-    coords = parse_vtx_text(args.vtx.read_text(encoding="utf-8")) if args.vtx else None
+    coords = parse_vtx_exact(args.vtx.read_text(encoding="utf-8")) if args.vtx else None
 
     log_handle = open(args.log, "w", encoding="utf-8") if args.log else None
     start_wall = time.time()
@@ -97,16 +96,16 @@ def main() -> int:
     geometry = None
     if coords is not None:
         sub_coords = {v: coords[v] for v in pruned.vertices}
-        errors = unit_edge_errors(pruned, sub_coords, tolerance=1e-9)
-        geometry = {"non_unit_edges": len(errors)}
+        errors = exact_non_unit_edges(pruned, sub_coords)
+        geometry = {"non_unit_edges": len(errors), "method": "exact symbolic"}
 
     write_edge_file(args.out_edge, pruned)
     if args.out_vtx and coords is not None:
         def key(v: str) -> tuple:
             return (0, int(v)) if v.isdigit() else (1, v)
         ordered = sorted(pruned.vertices, key=key)
-        # Note: vertex labels are not renumbered, so the .vtx is keyed by label.
-        lines = [f"{v}: {{{coords[v][0]!r}, {coords[v][1]!r}}}" for v in ordered]
+        # Exact coordinates, keyed by original vertex label (labels are not renumbered).
+        lines = [f"{v}: {{{coords[v][0]}, {coords[v][1]}}}" for v in ordered]
         args.out_vtx.write_text("\n".join(lines) + "\n", encoding="utf-8")
 
     report = {

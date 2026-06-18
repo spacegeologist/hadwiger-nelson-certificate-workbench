@@ -1,0 +1,8 @@
+  checked 100/510 (30.7s)
+  checked 200/510 (49.8s)
+  checked 300/510 (75.0s)
+  checked 400/510 (90.2s)
+  checked 500/510 (114.4s)
+vertices_checked: 510
+seconds: 116.6
+result: vertex-critical (every single-vertex deletion is 4-colorable)
