@@ -174,3 +174,38 @@ python3 scripts/verify_embedding.py \
   --edge data/hadwiger-nelson/generated/sbp-closed/553-sbp-closed.edge \
   --vtx data/hadwiger-nelson/external/marijnheule-CNP-SAT/vtx/553.vtx
 ```
+
+## Proof-Reuse Loop
+
+The 2026-06-19 one-hour loop scanned one-edge deletions from the SBP-closed
+graphs and checked whether the same upstream DRAT proof still verifies.  Final
+greedy combinations from that loop:
+
+| graph | SBP-closed edges | proof-reuse final edges | extra removed | scan coverage | final DRAT | final embedding |
+| --- | ---: | ---: | ---: | --- | --- | --- |
+| 517 | 2576 | 2556 | 20 | 2573 / 2573 | VERIFIED | all unit |
+| 529 | 2662 | 2641 | 21 | 2003 / 2659 | VERIFIED | all unit |
+| 553 | 2715 | 2708 | 7 | 2712 / 2712 | VERIFIED | all unit |
+
+Final files:
+
+- `data/hadwiger-nelson/generated/edge-proof-reuse/517-proof-reuse-final.edge`
+- `data/hadwiger-nelson/generated/edge-proof-reuse/517-proof-reuse-final.cnf`
+- `data/hadwiger-nelson/generated/edge-proof-reuse/529-proof-reuse-final.edge`
+- `data/hadwiger-nelson/generated/edge-proof-reuse/529-proof-reuse-final.cnf`
+- `data/hadwiger-nelson/generated/edge-proof-reuse/553-proof-reuse-final.edge`
+- `data/hadwiger-nelson/generated/edge-proof-reuse/553-proof-reuse-final.cnf`
+
+Run an edge proof-reuse scan:
+
+```bash
+python3 scripts/scan_edge_proof_reuse.py \
+  --edge data/hadwiger-nelson/generated/sbp-closed/553-sbp-closed.edge \
+  --cnf data/hadwiger-nelson/generated/sbp-closed/553-sbp-closed.cnf \
+  --proof data/hadwiger-nelson/external/marijnheule-CNP-SAT/proof/553-4-sbp.drat \
+  --colors 4 \
+  --preserve-edge 1:2 \
+  --preserve-edge 1:6 \
+  --preserve-edge 2:6 \
+  --output data/hadwiger-nelson/generated/edge-proof-reuse/553-scan.csv
+```

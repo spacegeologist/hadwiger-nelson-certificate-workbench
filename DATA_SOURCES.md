@@ -31,13 +31,19 @@ The following directories contain local generated artifacts:
 - `data/hadwiger-nelson/generated/cores/`
 - `data/hadwiger-nelson/generated/core-reduced/`
 - `data/hadwiger-nelson/generated/sbp-closed/`
+- `data/hadwiger-nelson/generated/edge-proof-reuse/`
 
 The primary reproducibility artifacts are the `sbp-closed` edge/CNF pairs. They
 retain the symmetry-breaking support triangle on vertices `1`, `2`, and `6` and
 verify against the upstream CNP-SAT DRAT proofs.
+
+The `edge-proof-reuse` artifacts continue from the `sbp-closed` graphs. They
+record one-edge deletion scans and final greedy deletion sets that still verify
+against the same upstream DRAT proofs.
 
 ## Checksums
 
 Key artifact checksums are recorded in:
 
 - `data/hadwiger-nelson/generated/sbp-closed/SHA256SUMS`
+- `data/hadwiger-nelson/generated/edge-proof-reuse/SHA256SUMS`
