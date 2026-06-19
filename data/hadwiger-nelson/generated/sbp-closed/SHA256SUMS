@@ -1,0 +1,12 @@
+419229f4939ccf557e805d4bb77f5dd11fdd4ee70b1788b82b7ce4a6f9010da0  data/hadwiger-nelson/generated/sbp-closed/517-sbp-closed.cnf
+be89354a0a356aedb21bcb44fc978ab2428031f22323eda1d663bf8acd54064e  data/hadwiger-nelson/generated/sbp-closed/517-sbp-closed.edge
+29a62f09617e813fbe69d521a523d71724ff737666ada66a4a837a10259acaf9  data/hadwiger-nelson/generated/sbp-closed/529-sbp-closed.cnf
+09dc8b65fc42b64ce24dc1efe19c16c22977e9812adc7dac52a50d68bd80f324  data/hadwiger-nelson/generated/sbp-closed/529-sbp-closed.edge
+a6b2d9797a2538fb09d5e2a2825ccd67136cf4da05ef0ceb1de5580ae7cc6c3f  data/hadwiger-nelson/generated/sbp-closed/553-sbp-closed.cnf
+033afd912b030ceffc967ca7ee427180fa1acfd8d4e1016a4d0a37f302f91743  data/hadwiger-nelson/generated/sbp-closed/553-sbp-closed.edge
+d4df20867ea18cc1b41642a2f87495d9941e48e0882239cd76b39c20a1a5558b  data/hadwiger-nelson/external/marijnheule-CNP-SAT/proof/517-4-sbp.drat
+fc2edf1fb573de69f5f2c786d62c50b7da13e7b2b8bc1b1bb5859bea58ee4cb6  data/hadwiger-nelson/external/marijnheule-CNP-SAT/proof/529-4-sbp.drat
+d71180c6d30f85ec95c91a54aee09f60b728588257198116157c92e99dd17d50  data/hadwiger-nelson/external/marijnheule-CNP-SAT/proof/553-4-sbp.drat
+402aa7b8a1145843366cff178dcfac44b97f8a748e318ae753520cbeb6a784d5  data/hadwiger-nelson/external/marijnheule-CNP-SAT/vtx/517.vtx
+ce0cf260e431972c1222521f1b552bc94e7c42040ddf4b4110cee0eaab518dbb  data/hadwiger-nelson/external/marijnheule-CNP-SAT/vtx/529.vtx
+7e43a0250f4e54f362ffec98dcc0d364edd06d3d0963931b1ec7c32cc846d4fb  data/hadwiger-nelson/external/marijnheule-CNP-SAT/vtx/553.vtx

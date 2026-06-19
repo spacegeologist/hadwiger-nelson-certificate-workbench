@@ -1,0 +1,27 @@
+name: Verify SBP-closed certificates
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Python dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Build drat-trim
+        run: |
+          git clone https://github.com/marijnheule/drat-trim.git data/hadwiger-nelson/external/drat-trim
+          make -C data/hadwiger-nelson/external/drat-trim
+
+      - name: Verify unit tests, embeddings, and DRAT certificates
+        run: python scripts/check_sbp_closed.py

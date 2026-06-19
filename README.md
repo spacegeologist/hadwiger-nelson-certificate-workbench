@@ -41,6 +41,29 @@ make -C data/hadwiger-nelson/external/drat-trim
 
 If you already have a `drat-trim` binary, substitute that path in the commands.
 
+## One-Command Verification
+
+After installing dependencies and building `drat-trim`, run:
+
+```bash
+python3 scripts/check_sbp_closed.py
+```
+
+This runs:
+
+- the Python unit test suite,
+- all three SBP-closed unit-distance embedding checks,
+- all three SBP-closed DRAT certificate checks.
+
+Preview the exact commands without running them:
+
+```bash
+python3 scripts/check_sbp_closed.py --dry-run
+```
+
+Key artifact checksums are in
+`data/hadwiger-nelson/generated/sbp-closed/SHA256SUMS`.
+
 ## 553-Vertex Reproduction
 
 The workspace now reproduces Marijn Heule's 553-vertex 5-chromatic unit-distance graph certificate from `marijnheule/CNP-SAT`.
